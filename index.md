@@ -1,9 +1,9 @@
 # Anuj's first CS193 Lab
--Its's fun
+- Its's fun
 
--Not time consuming
+- Not time consuming
 
--Once every 2 weeks
+- Once every 2 weeks
 
 ## Welcome to GitHub Pages
 
